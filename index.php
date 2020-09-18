@@ -33,7 +33,7 @@
 		</div>
 	</div>
 	<div class="footer">
-		Copyright &copy; All rights is received
+		Copyright &copy;  <?php echo date('Y');> All rights is received
 	</div>
 </body>
 </html>
